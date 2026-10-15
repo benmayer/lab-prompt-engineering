@@ -1,0 +1,17 @@
+[
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\n    \"damaged_packaging\"\n  ]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\n    \"damaged_packaging\"\n  ]\n}\n```",
+ "```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}\n```",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\n    \"damaged_packaging\"\n  ]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}",
+ "{\n    \"order_id\": \"12345\",\n    \"order_date\": \"March 15\",\n    \"delivery_sentiment\": \"positive\",\n    \"packaging_sentiment\": \"negative\",\n    \"issues\": [\"damaged_packaging\"]\n}",
+ "```json\n{\n  \"order_id\": \"12345\",\n  \"order_date\": \"March 15\",\n  \"delivery_sentiment\": \"positive\",\n  \"packaging_sentiment\": \"negative\",\n  \"issues\": [\"damaged_packaging\"]\n}\n```"
+]

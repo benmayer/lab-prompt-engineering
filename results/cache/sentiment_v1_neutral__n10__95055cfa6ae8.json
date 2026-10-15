@@ -1,0 +1,12 @@
+[
+ "The customer message can be classified as an \"Order Update\" or \"Order Status Confirmation.\"",
+ "The customer message can be classified as a \"Delivery Confirmation\" or \"Order Receipt.\"",
+ "The customer message can be classified as a **Order Update/Confirmation**.",
+ "The customer message can be classified as an \"Order Status Update.\"",
+ "This customer message can be classified as a \"Order Notification\" or \"Order Update.\" The customer is informing that they have received their order, which suggests an acknowledgment of delivery.",
+ "The customer message can be classified as an **Order Status Update** or **Order Confirmation**.",
+ "The customer message can be classified as a **Shipping Confirmation** or **Order Update**.",
+ "This customer message can be classified as \"Order Confirmation\" or \"Order Update.\"",
+ "The customer message can be classified as \"Order Status Update.\"",
+ "The customer message can be classified as \"Order Status/Delivery Confirmation.\""
+]

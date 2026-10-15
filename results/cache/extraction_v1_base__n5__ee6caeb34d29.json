@@ -1,0 +1,7 @@
+[
+ "- **Order Number:** #12345\n- **Order Date:** March 15th\n- **Delivery Speed:** Fast\n- **Issue:** Damaged packaging",
+ "Here is the extracted information from the customer feedback:\n\n- **Order Number**: #12345\n- **Order Date**: March 15th\n- **Delivery Speed**: Fast\n- **Packaging Condition**: Damaged",
+ "Here are the key pieces of information extracted from the customer feedback:\n\n- **Item Number:** 12345\n- **Order Date:** March 15th\n- **Delivery Speed:** Fast\n- **Packaging Condition:** Damaged",
+ "Customer Feedback Summary:\n\n- **Order Information**: \n  - Item Number: #12345\n  - Order Date: March 15th\n\n- **Feedback**:\n  - Delivery Speed: Fast\n  - Packaging Condition: Damaged",
+ "Here are the extracted key details from the customer feedback:\n\n- **Order Number:** 12345\n- **Order Date:** March 15th\n- **Delivery Speed:** Fast\n- **Packaging Condition:** Damaged"
+]
